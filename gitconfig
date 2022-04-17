@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = cawntggreek@outlook.com
+	name = Wan Ting Chua
